@@ -205,6 +205,6 @@ var speed = [500, 800];
 var isRunning = 0;
 var isWaiting = 0;
 
-let socket = io.connect('http://127.0.0.1:3000')
+let socket = io.connect('http://58.247.22.10:4000')
 
 var userList = []; // 房间内所有人的username
