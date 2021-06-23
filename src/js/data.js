@@ -178,7 +178,7 @@ function CreatePlaces(jsonf){
 }
 
 function readMapFromFile(mapName){
-	const url = "./data/" + mapName + ".json";
+	const url = "../../data/" + mapName + ".json";
 	const request = new XMLHttpRequest();
 	request.open("get", url);/*设置请求方法与路径*/
 	request.send(null);/*不发送数据到服务器*/
