@@ -444,7 +444,7 @@ curday.parentElement.style.pointerEvents = "none";
 window.addEventListener('load', () => {
     let images = [];
     let src = [
-        "img/arrow.png", "img/Aatrox.png", "img/Camille.png", "img/Irelia.png", "img/Lucian.png", "img/Yone.png", "img/zed.png",
+        "img/arrow.png", "img/Aatrox.png", "img/Camille.png", "img/Irelia.png", "img/Lucian.png", "img/Yone.png", "img/Zed.png",
         "img/1.jpg", "img/2.jpg", "img/3.jpg", "img/4.jpg", "img/5.jpg", "img/6.jpg", "img/s1.jpg", "img/s2.jpg",
         "img/c1.png", "img/c2.png", "img/c3.png", "img/c4.png", "img/c5.png", "img/l1.png", "img/l2.png", "img/l3.png"
     ];
